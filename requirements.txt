@@ -65,7 +65,7 @@ jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 kubernetes==32.0.1
 langchain==0.3.19
-langchain-chroma==0.2.2
+langchain-chroma
 langchain-community==0.3.18
 langchain-core==0.3.40
 langchain-experimental==0.3.4
